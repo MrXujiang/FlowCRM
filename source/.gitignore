@@ -1,0 +1,41 @@
+node_modules
+
+# 构建输出
+dist
+build
+*.log
+
+# 数据文件
+data/*.json
+!data/.gitkeep
+
+# 上传文件
+uploads/*
+!uploads/.gitkeep
+
+# 环境变量
+.env
+.env.local
+.env.production.local
+
+# IDE
+.vscode
+.idea
+*.swp
+*.swo
+
+# 系统文件
+.DS_Store
+Thumbs.db
+
+# PM2
+.pm2
+*.pid
+
+# 日志
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
