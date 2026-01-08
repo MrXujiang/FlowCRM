@@ -2,6 +2,7 @@
 
 <img src="./demo.png" alt="FlowCRM Demo" width="100%" />
 
+
 # 🚀 FlowCRM
 
 **一款轻量级、开箱即用的现代化 CRM 系统**
