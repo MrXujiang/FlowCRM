@@ -1,6 +1,6 @@
 <div align="center">
 
-![](./demo.png)
+<img src="./demo.png" />
 
 # 🚀 FlowCRM
 
